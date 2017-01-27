@@ -6,7 +6,8 @@ was introduced?
 How could having easy access to the entire history of a file make you a more
 efficient programmer in the long term?
 
-    Fill in your answer here
+    Knowing history will prevent us from repeating it. 
+    When we are looking at old project and we don't remember what part is doing what we can look at history and see what we are looking for faster than reading all of code. 
 
 What do you think are the pros and cons of manually choosing when to create a
 commit, like you do in Git, vs having versions automatically saved, like Google
