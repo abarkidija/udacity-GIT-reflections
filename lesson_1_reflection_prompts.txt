@@ -21,11 +21,11 @@ docs does?
 Why do you think some version control systems, like Git, allow saving multiple
 files in one commit, while others, like Google Docs, treat each file separately?
 
-    Git is mostly used for programming languages and in them multiple files make a whole, and often saving only one file makes no sense.
+    Git is mostly used for programming languages and in them multiple files make a whole, and often saving only one file makes no sense. Others like Google Docs are also used for novels, books, forums... 
 
 How can you use the commands git log and git diff to view the history of files?
 
-    Fill in your answer here
+    We use git log to see different versions, and with git diff of two or more commits we see difference between them. 
 
 How might using version control make you more confident to make changes that
 could break something?
