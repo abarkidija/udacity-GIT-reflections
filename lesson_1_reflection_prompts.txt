@@ -34,4 +34,4 @@ could break something?
 
 Now that you have your workspace set up, what do you want to try using Git for?
 
-    Fill in your answer here
+    For start getting used to using it, and little by little getting comfortable  using it in everything I do. 
