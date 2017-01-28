@@ -7,6 +7,7 @@ What value do you think it offers?
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+	we can add multiple changes/files to staging area before using commit. Example we add css, html, jscript separately on staging area, and than use commit on all 3 at once if the changes on all 3 make logical change. 
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
